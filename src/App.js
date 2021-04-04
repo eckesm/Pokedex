@@ -1,9 +1,9 @@
 import logo from './logo.svg';
-import Pokedex from './Pokedex';
+import Pokegame from './Pokegame';
 import './App.css';
 
 function App() {
-	return <Pokedex />;
+	return <Pokegame />;
 }
 
 export default App;
