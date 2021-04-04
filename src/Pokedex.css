@@ -1,13 +1,13 @@
 .Pokedex{
-    /* width: 750px; */
+    text-align: center;
 }
 
 .Pokedex-title{
-    text-align: center;
     color: grey;
 }
 
 .Pokedex-cards{
-    /* flex-wrap: wrap; */
-    justify-content: space-between;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
